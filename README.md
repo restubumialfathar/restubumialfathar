@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br><br>🌱 I’m currently learning Dart<br><br>👨‍💻 All of my projects are available at https://restubumialfathar.github.io/portfoliobg/<br><br>📫 How to reach me restubumialfathar12@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1eaUbEYoNsaKqO9EdnmTR_7CgoTlZFWLd/view?usp=sharing<br><br>⚡ Fun fact I like futsal and basketball
+🔭 I’m currently working on Flutter<br><br>🌱 I’m currently learning Dart<br><br>👨‍💻 All of my projects are available at https://restubumialfathar.github.io/portfoliobg/<br><br>📫 How to reach me restubumialfathar12@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1eaUbEYoNsaKqO9EdnmTR_7CgoTlZFWLd/view?usp=sharing<br><br>⚡ hobbies futsal and basketball
 
 
 ## 🌐 Socials:
